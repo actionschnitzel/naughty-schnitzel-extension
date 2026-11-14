@@ -1,0 +1,3 @@
+show_hidden_files.py usr/share/nautilus-python/extensions/
+symlink_menu.py usr/share/nautilus-python/extensions/
+copy_path.py usr/share/nautilus-python/extensions/

@@ -1,0 +1,14 @@
+Source: naughty-schnitzel-extension
+Section: gnome
+Priority: optional
+Maintainer: Actionschnitzel <actionchnitzel@guideos.de>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
+Rules-Requires-Root: no
+
+Package: naughty-schnitzel-extension
+Architecture: all
+Depends: ${misc:Depends}, nautilus, python3-nautilus
+Description: Nautilus menu entry to show or hide hidden files
+ Adds an item to the background context menu of Nautilus that toggles
+ the display of hidden files.

@@ -1,6 +1,8 @@
 # naughty-schnitzel-extension
 A Collection of Extension To Survive Nautilus/Gnome
 
+![screenshot](screenshot.png)
+
 ## Extensions
 
 ### 📁 show_hidden_files.py
